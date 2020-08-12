@@ -78,15 +78,7 @@ If you discover a security vulnerability within Laravel, please send an e-mail t
 
 The Laravel framework is open-sourced software licensed under the [MIT license](https://opensource.org/licenses/MIT).
 
-## About
-
-This is my final output from the Youtube tutorial titled 'Laravel From Scratch' by Traversy Media (https://www.youtube.com/user/TechGuyWeb). This is my first Laravel project which uses basic concepts of the framework. I am a beginner in using this framework but I will be dedicating ample time to get into it and will be developing other simple applications in the future.
-
 ## Screenshot
 
-![1](https://user-images.githubusercontent.com/67742401/90000499-d3004d80-dcc2-11ea-8141-0d3b07f79581.jpg)
+![1](https://user-images.githubusercontent.com/67742401/90000504-d4ca1100-dcc2-11ea-89e3-905f94ac7bac.jpg)
 
-
-## Author
-
-I am a college instructor teaching Information Technology and Computer Sciences subject and also a Freelance Developer in my vacant time. I am mostly interested in web development languages specifically in PHP, MySQL and Bootstrap. I am also a C# developer but more on Window Application, currently learning about WPF and .Net. I will also be uploading my C# projects in the future. 
