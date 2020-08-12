@@ -82,11 +82,9 @@ The Laravel framework is open-sourced software licensed under the [MIT license](
 
 This is my final output from the Youtube tutorial titled 'Laravel From Scratch' by Traversy Media (https://www.youtube.com/user/TechGuyWeb). This is my first Laravel project which uses basic concepts of the framework. I am a beginner in using this framework but I will be dedicating ample time to get into it and will be developing other simple applications in the future.
 
-## Screenshots
+## Screenshot
 
-https://user-images.githubusercontent.com/67742401/90000499-d3004d80-dcc2-11ea-8141-0d3b07f79581.jpg
-https://user-images.githubusercontent.com/67742401/90000501-d4317a80-dcc2-11ea-9701-7fbfdd143891.jpg
-https://user-images.githubusercontent.com/67742401/90000504-d4ca1100-dcc2-11ea-89e3-905f94ac7bac.jpg
+![1](https://user-images.githubusercontent.com/67742401/90000499-d3004d80-dcc2-11ea-8141-0d3b07f79581.jpg)
 
 
 ## Author
